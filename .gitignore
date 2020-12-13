@@ -1,0 +1,6 @@
+venv/
+.idea/
+Targets/
+file*.txt
+*.log
+*.pyc

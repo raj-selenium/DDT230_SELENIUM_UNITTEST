@@ -1,0 +1,6 @@
+menus,expected_url
+Admin_User Management_Users,index.php/admin/viewSystemUsers
+Admin_Job_Job Titles,index.php/admin/viewJobTitleList
+Admin_Nationalities,index.php/admin/nationality
+PIM_Configuration_Custom Fields,index.php/pim/listCustomFields
+PIM_Add Employee,index.php/pim/addEmployee
